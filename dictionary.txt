@@ -1,25 +1,25 @@
-Raesfeld 
-Flughafen 
-Berlin 
-Bratwurst 
-Hauptstrasse 
-Brot 
-Klimaanlage 
-Rammstein 
-Porsche
-BMW 
-Biergarten 
-Ratskeller 
-Dirndel 
-Lederhose 
-Schloss 
-wettbewerbs
-faehig 
-Mehlhase 
-Gebaeck
-Baeckerei 
-Hund 
-Doener 
-Apfelkuchen 
-Schloss 
-Eltz
+Raesfeld      -   city in North Rhine-Westphalia.
+Flughafen     -   airport
+Berlin        -   capital and largest city of Germany
+Bratwurst     -   type of German sausage made from pork or, less commonly, beef or veal.
+Hauptstrasse  -   a main road.
+Brot          -   bread
+Klimaanlage   -   air conditioner (AC)
+Rammstein     -   German rock band
+Porsche       -   German auto manufacturer. The word Porsche which originates from the word "offerings"
+BMW           -   German auto manufacturer. The word is an abbreviation and it stands for "Bayerische Motoren Werke AG" == "the Bavarian Engine Works Company"
+Biergarten    -   beer garden
+Ratskeller    -   basement tavern or restaurant.
+Dirndel       -   feminine dress
+Lederhose     -   traditional piece of clothing generally associated with mountainous regions of German.
+Schloss       -   a castle or palace
+wettbewerbs   -   competitive
+faehig        -   capable
+Mehlhase      -   floor bunnie
+Gebaeck       -   pastry
+Baeckerei     -   bakery
+Hund          -   dog
+Doener        -   doer (person who does something)
+Apfelkuchen   -   apple cake
+Schloss       -   lock
+Eltz          -   a medieval castle nestled in the hills above the Moselle between Koblenz and Trier, Germany.
